@@ -1,0 +1,10 @@
+name: Blocks
+version: 1.0-SNAPSHOT
+api-version: 1.17
+main: me.tatteaid.blocks.BlocksPlugin
+author: Ambrosia
+description: An all-in-one blocks management suite.
+
+commands:
+  blocks:
+    usage: /<command>
